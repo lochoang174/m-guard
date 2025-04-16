@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/lochoang174/be-mguard.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lochoang174/fe-mguard.git
+[submodule "AI"]
+	path = AI
+	url = https://github.com/toanuitt/AI_heath.git
