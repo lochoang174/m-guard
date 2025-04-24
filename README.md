@@ -1,6 +1,12 @@
 # M-Guard Health Monitoring System
 
 M-Guard is a comprehensive health monitoring system that combines AI-powered cuff detection, real-time health metrics monitoring, and interactive chat capabilities. The system is built using modern web technologies and machine learning.
+## Demo
+
+
+https://github.com/user-attachments/assets/b1f96452-089d-43c3-a9e1-3db6a93e553e
+
+
 
 ## System Architecture
 
